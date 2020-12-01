@@ -41,9 +41,6 @@
 ## 서울 학문/교육 업종 지역별 순위
 ![서울에 학문 업종](https://user-images.githubusercontent.com/59160781/100755086-242d7c00-342f-11eb-93a6-58418161be55.PNG)
    
-## 강남구 학문/교육 동별 순위
-![대치동](https://user-images.githubusercontent.com/59160781/100755187-42937780-342f-11eb-8ed7-db2cf43a84c9.PNG)
-
 ## 강남구 학문/교육 업종 종류별 순위
 ![강남구 학업 업종](https://user-images.githubusercontent.com/59160781/100755248-52ab5700-342f-11eb-863b-fe107b3821e9.PNG)
    
@@ -56,6 +53,9 @@
 # 시각화 및 탐색(서울 학문/교육 분석)
 ## 서울 학문/교육 업종 종류별 순위
 ![서울에 학문 소분류명](https://user-images.githubusercontent.com/59160781/100755598-b170d080-342f-11eb-8b9e-09bf7429c16f.PNG)
+   
+## 강남구 학문/교육 동별 순위
+![대치동](https://user-images.githubusercontent.com/59160781/100755187-42937780-342f-11eb-8ed7-db2cf43a84c9.PNG)
    
 ## 강남구 학문/교육 동별 순위
 ![서울에 학문 동명2](https://user-images.githubusercontent.com/59160781/100755443-871f1300-342f-11eb-8128-de7c11740425.PNG)
