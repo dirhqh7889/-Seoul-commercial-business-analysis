@@ -63,7 +63,8 @@
    
 ## 서울 학문/교육 지도
 ![서울 지도](https://user-images.githubusercontent.com/59160781/100755951-0e6c8680-3430-11eb-83bc-ff092a89d853.PNG)
-   
+![캡처](https://user-images.githubusercontent.com/59160781/100984829-8cdf3a80-358e-11eb-9df4-88f353f3bd0a.PNG)
+
 
 # 결론
 서울의 대부분의 업종들은 강남구에 많이 분포하고 있는 것을 알 수 있었다.   
